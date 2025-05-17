@@ -1,5 +1,14 @@
 # Dead End
 
+
+This is the final build of *Dead End*, a survival horror maze game developed as part of a course project.
+
+### ⚠️ Important Notice
+This release is for **educational and demonstration purposes only**.  
+All third-party assets (music, character models, etc.) are used under licenses that prohibit commercial use or public distribution beyond academic settings.  
+Please do not redistribute or reuse any of the included content outside of project or classroom contexts.
+
+
 ## Overview
 **Dead End** is a time-based survival horror maze game where players must navigate through a dark and unsettling maze within a strict three-minute time limit. The goal is to find the exit before time runs out while avoiding a terrifying monster that awakens after one minute.
 
