@@ -83,14 +83,6 @@ Power-ups such as speed and health boosts are scattered throughout the maze, pro
 
 ---
 
-## Map Legend (for diagram included in final submission)
-- ⚡ Power-up locations (random each session)  
-- P (Green) Player’s start position  
-- M (Red) Monster’s spawn location  
-- E (Blue) Exit point  
-
----
-
 Feel free to explore, survive, and try to escape the **Dead End**!
 
 ---
