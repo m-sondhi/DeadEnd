@@ -95,14 +95,10 @@ Feel free to explore, survive, and try to escape the **Dead End**!
 
 ---
 
-### How to Run
-_(Add instructions here for running your game, e.g., system requirements, build commands, or executable info)_
-
----
 
 ### Contributors
-- Your Name  
-- Your Friend's Name  
+- Madhav Sondhi  
+- Kshrey Vishrant  
 
 ---
 
