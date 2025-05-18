@@ -9,6 +9,12 @@ All third-party assets (music, character models, etc.) are used under licenses t
 Please do not redistribute or reuse any of the included content outside of project or classroom contexts.
 
 
+## How to Play
+Download the zip folder from the [Releases](../../releases) section.  
+Once extracted and your Unity environment is set up, open the project in Unity.  
+Navigate to the `Scenes` folder and start the game by opening and running the `Main Menu` scene.
+
+
 ## Overview
 **Dead End** is a time-based survival horror maze game where players must navigate through a dark and unsettling maze within a strict three-minute time limit. The goal is to find the exit before time runs out while avoiding a terrifying monster that awakens after one minute.
 
@@ -105,5 +111,4 @@ Feel free to explore, survive, and try to escape the **Dead End**!
 
 Thanks for playing!
 
-"# DeadEnd" 
-"#DeadEnd" 
+"DeadEnd"  
